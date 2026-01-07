@@ -71,9 +71,6 @@ A router connects different networks and decides the best path to forward data.
 - DHCP (automatic IP address assignment)
 - NAT (address translation)
 
-### OSI Layer
-- **Layer 3 (Network)**
-
 ---
 
 ## 5. Switches
@@ -84,10 +81,6 @@ A switch connects devices within the same local area network (LAN).
 - Forwards traffic using MAC addresses
 - Reduces collisions
 - Improves network performance
-
-### OSI Layer
-- **Layer 2 (Data Link)**
-- Some advanced switches operate at **Layer 3**
 
 ---
 
